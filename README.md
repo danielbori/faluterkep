@@ -1,0 +1,1 @@
+Természetvédelmi célú téradatbázis készítése Nagyszékely területén című szakdolgozatomhoz készült scriptek gyűjtőhelye
